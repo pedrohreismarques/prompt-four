@@ -41,6 +41,12 @@ O logotipo da PromptFour foi estrategicamente desenhado para refletir o nosso DN
 
 * **A Tagline**: Abaixo do nome, a assinatura < Web & Java Solutions > emoldurada por chaves de código reforça o nosso nicho de atuação com clareza e orgulho do que fazemos de melhor.
 
+## Equipe
+* Anna Luiza Ferreira Costa dos Santos (CEO e Dev Back-end) - [![GitHub](https://img.shields.io/badge/github-repo-blue?logo=github)](https://github.com/AnnaLuSant)
+* Gabriely Barreto Almeida (Cientista e Dev Back-end) - [![GitHub](https://img.shields.io/badge/github-repo-blue?logo=github)](https://github.com/barretoalmeida)
+* Pedro Henrique dos Reis Marques (Analista de Redes e Dev Front-end) - [![GitHub](https://img.shields.io/badge/github-repo-blue?logo=github)](https://github.com/pedrohreismarques)
+* Vitória Cristina Correa dos Santos (Designer e Dev Front-end) - [![GitHub](https://img.shields.io/badge/github-repo-blue?logo=github)](https://github.com/vcorreasantos)
+
 ### Cores
 * Ciano - #57BFCF
 * Branco - #ffffff
