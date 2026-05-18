@@ -23,7 +23,7 @@ O nome PromptFour une a essência da programação à mentalidade de excelência
 
 ## Nossa identidade visual: O conceito da logo
 
-![Logo_PromptFour](img/logo.png)
+![Logo_PromptFour](img/logo_fundo.png)
 
 O logotipo da PromptFour foi estrategicamente desenhado para refletir o nosso DNA tecnológico e a precisão do nosso trabalho. Cada elemento gráfico conta uma parte da nossa história:
 
@@ -42,6 +42,6 @@ O logotipo da PromptFour foi estrategicamente desenhado para refletir o nosso DN
 * **A Tagline**: Abaixo do nome, a assinatura < Web & Java Solutions > emoldurada por chaves de código reforça o nosso nicho de atuação com clareza e orgulho do que fazemos de melhor.
 
 ### Cores
-Ciano - #57BFCF
-Branco - #ffffff
-Preto - #000000
+* Ciano - #57BFCF
+* Branco - #ffffff
+* Preto - #000000
