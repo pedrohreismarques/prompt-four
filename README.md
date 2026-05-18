@@ -23,7 +23,7 @@ O nome PromptFour une a essência da programação à mentalidade de excelência
 
 ## Nossa identidade visual: O conceito da logo
 
-![Logo_PromptFour](img/fundo_logo.png)
+![Logo_PromptFour](img/fundo_logo.jpg)
 
 O logotipo da PromptFour foi estrategicamente desenhado para refletir o nosso DNA tecnológico e a precisão do nosso trabalho. Cada elemento gráfico conta uma parte da nossa história:
 
