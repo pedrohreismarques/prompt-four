@@ -39,7 +39,7 @@ O logotipo da PromptFour foi estrategicamente desenhado para refletir o nosso DN
 
     * **Azul Ciano**: Representa a inovação, a tecnologia fluida, a criatividade e o futuro digital.
 
-* **A Tagline**: Abaixo do nome, a assinatura < Web & Java Solutions > emoldurada por chaves de código reforça o nosso nicho de atuação com clareza e orgulho do que fazemos de melhor.
+* **A Tagline**: Abaixo do nome, a assinatura *< Web & Java Solutions >* emoldurada por chaves de código reforça o nosso nicho de atuação com clareza e orgulho do que fazemos de melhor.
 
 ## Equipe
 * Anna Luiza Ferreira Costa dos Santos (CEO e Dev Back-end) - [![GitHub](https://img.shields.io/badge/github-repo-blue?logo=github)](https://github.com/AnnaLuSant)
