@@ -48,7 +48,8 @@ body {
 
 /* Hero Section */
 .hero-section {
-    background: linear-gradient(135deg, #0d2c54 0%, #020813 100%);
+   
+    background: linear-gradient(rgba(13, 44, 84, 0.85), rgba(2, 8, 19, 0.92)), url('img/fundo_main.png') no-repeat center center / cover;
     min-height: 100vh;
     display: flex;
     align-items: center;
@@ -56,6 +57,7 @@ body {
     color: #ffffff;
     position: relative;
     overflow: hidden;
+
 }
 
 .hero-section::before {
