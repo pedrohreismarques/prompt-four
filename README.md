@@ -1,9 +1,7 @@
 # Site One Page - PromptFour
 Documentação e hospedagem do site da empresa (fictícia) PromptFour.
 
-![GitHub License](https://img.shields.io/github/license/pedrohreismarques/prompt-four?style=for-the-badge)
-
-![W3C Validation](https://img.shields.io/w3c-validation/html?targetUrl=https%3A%2F%2Fpedrohreismarques.github.io%2Fprompt-four%2F&style=for-the-badge)
+![GitHub License](https://img.shields.io/github/license/pedrohreismarques/prompt-four?style=for-the-badge) ![W3C Validation](https://img.shields.io/w3c-validation/html?targetUrl=https%3A%2F%2Fpedrohreismarques.github.io%2Fprompt-four%2F&style=for-the-badge)
 
 <p>
     <a href="https://jigsaw.w3.org/css-validator/check/referer">
