@@ -1,6 +1,14 @@
 # Site One Page - PromptFour
 Documentação e hospedagem do site da empresa (fictícia) PromptFour.
 
+<p>
+    <a href="https://jigsaw.w3.org/css-validator/check/referer">
+        <img style="border:0;width:88px;height:31px"
+            src="https://jigsaw.w3.org/css-validator/images/vcss-blue"
+            alt="CSS válido!" />
+    </a>
+</p>
+
 ## Quem somos?
 A **PromptFour** é uma empresa especializada em Soluções de Tecnologia da Informação, nascida com a missão de impulsionar a transformação digital e o crescimento de outras empresas. Com um foco sólido e especializado em **desenvolvimento web e arquitetura Java**, nós transformamos desafios complexos em sistemas eficientes, robustos e sob medida para o mercado B2B.
 
@@ -46,8 +54,3 @@ O logotipo da PromptFour foi estrategicamente desenhado para refletir o nosso DN
 * Gabriely Barreto Almeida (Cientista e Dev Back-end) - [![GitHub](https://img.shields.io/badge/github-repo-blue?logo=github)](https://github.com/barretoalmeida)
 * Pedro Henrique dos Reis Marques (Analista de Redes e Dev Front-end) - [![GitHub](https://img.shields.io/badge/github-repo-blue?logo=github)](https://github.com/pedrohreismarques)
 * Vitória Cristina Correa dos Santos (Designer e Dev Front-end) - [![GitHub](https://img.shields.io/badge/github-repo-blue?logo=github)](https://github.com/vcorreasantos)
-
-### Cores
-* Ciano - #57BFCF
-* Branco - #ffffff
-* Preto - #000000

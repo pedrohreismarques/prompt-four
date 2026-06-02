@@ -187,13 +187,31 @@ section {
 }
 
 .service-card:hover {
+
     background-color: var(--primary-color);
     color: #ffffff;
     transform: translateY(-3px);
+
 }
 
 .service-card:hover .service-icon {
+
     color: var(--secondary-color);
+
+}
+
+.service-card:hover .card-title {
+
+    color: #ffffff !important;
+
+}
+
+
+.service-card:hover .card-text.text-muted {
+
+    color: #ffffff !important;
+    opacity: 0.6 !important;
+
 }
 
 .service-icon {
